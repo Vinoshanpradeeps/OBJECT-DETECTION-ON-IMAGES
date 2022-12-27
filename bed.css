@@ -1,0 +1,16 @@
+h1{
+    margin-left: 490px;
+    color: white;
+}
+#back{
+    font-size: 15px;
+    background-color: aqua;
+    color: black;
+    margin-left: 400px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 5px, black, dashed;
+}
